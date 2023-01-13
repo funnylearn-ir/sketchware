@@ -1,17 +1,6 @@
 {
   "discordInviteLink": "https://t.me/Funny_Learn",
   "moddersteam": [
-
-    {
-      "title": "دوره آموزش رایگان برنامه اسکچور رو در لینک زیر مشاهده کنید",
-      "description": "https://funnylearn.ir/product/sketchware-learn-android/",
-      "releaseDate": 1667602800000,
-      "isBeta": true,
-      "isTitled": true
-    }
-  ],
-  "changelog": [
-  
   {
       "modder_username": "Omid Zahedi",
       "modder_description": "Created the website and docs. Visit: https://FunnyLearn.ir",
@@ -19,6 +8,17 @@
       "isTitled": false,
       "isMainModder": false,
       "title": null
+    }
+  ],
+  "changelog": [
+  
+  
+      {
+      "title": "دوره آموزش رایگان برنامه اسکچور رو در لینک زیر مشاهده کنید",
+      "description": "https://funnylearn.ir/product/sketchware-learn-android/",
+      "releaseDate": 1667602800000,
+      "isBeta": true,
+      "isTitled": true
     },
 
   ]
