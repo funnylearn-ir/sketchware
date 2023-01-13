@@ -1,10 +1,10 @@
 {
-  "discordInviteLink": "https://t.me/Funny_Learn",
+  "discordInviteLink": "https://discord.gg/kq39yhT4rX",
   "moddersteam": [
-    
+
     {
-      "modder_username": "جهت مشاهده آموزش استفاده از برنامه صفحه Change log رو باز کنید",
-      "modder_description": "https://t.me/Funny_Learn",
+      "modder_username": "NiceSapien",
+      "modder_description": "Created the website and docs. Visit: https://nicesapien.is-a.dev",
       "modder_img": "https://avatars.githubusercontent.com/u/71333407",
       "isTitled": false,
       "isMainModder": false,
@@ -13,10 +13,17 @@
   ],
   "changelog": [
     {
-      "title": "آموزش ساخت برنامه با نرم افزار اسکچور رو در لینک زیر ببینید",
-      "description": "https://funnylearn.ir/product/sketchware-learn-android/",
+      "title": "Sketchware Pro v6.4.0 test build 05",
+      "description": "We've made a few changes to the Logic Editor. Please make sure to make a backup of your entire .s was fixed too.\n - Spaces in More Block names are disallowed again, as they cannot be compiled.\n\nFull Changelog: https://github.com/Sketchware-Pro/Sketchware-Pro/compare/v6.4.0-rc04...v6.4.0-rc05",
       "releaseDate": 1667602800000,
       "isBeta": true,
+      "isTitled": true
+    },
+    
+    {
+      "title": "",
+      "description": "",
+      "isBeta": false,
       "isTitled": true
     }
   ]
