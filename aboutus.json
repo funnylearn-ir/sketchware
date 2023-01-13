@@ -1,9 +1,10 @@
 {
   "discordInviteLink": "https://t.me/Funny_Learn",
   "moddersteam": [
-  {
-      "modder_username": "Omid Zahedi",
-      "modder_description": "Created the website and docs. Visit: https://FunnyLearn.ir",
+    
+    {
+      "modder_username": "جهت مشاهده آموزش استفاده از برنامه صفحه Change log رو باز کنید",
+      "modder_description": "https://t.me/Funny_Learn",
       "modder_img": "https://avatars.githubusercontent.com/u/71333407",
       "isTitled": false,
       "isMainModder": false,
@@ -11,15 +12,12 @@
     }
   ],
   "changelog": [
-  
-  
-      {
-      "title": "دوره آموزش رایگان برنامه اسکچور رو در لینک زیر مشاهده کنید",
+    {
+      "title": "آموزش ساخت برنامه با نرم افزار اسکچور رو در لینک زیر ببینید",
       "description": "https://funnylearn.ir/product/sketchware-learn-android/",
       "releaseDate": 1667602800000,
       "isBeta": true,
       "isTitled": true
     },
-
   ]
 }
