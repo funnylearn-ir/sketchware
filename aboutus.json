@@ -1,0 +1,105 @@
+{
+  "discordInviteLink": "https://discord.gg/kq39yhT4rX",
+  "moddersteam": [
+
+    {
+      "modder_username": "Omid Zahedi",
+      "modder_description": "Created the website and docs. Visit: https://FunnyLearn.ir",
+      "modder_img": "https://avatars.githubusercontent.com/u/71333407",
+      "isTitled": false,
+      "isMainModder": false,
+      "title": null
+    }
+  ],
+  "changelog": [
+    {
+      "title": "دوره آموزش رایگان برنامه اسکچور رو در لینک زیر مشاهده کنید",
+      "description": "https://funnylearn.ir/product/sketchware-learn-android/",
+      "releaseDate": 1667602800000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1657014000000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1652721660000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1652545500000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1640385540000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1632686940000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1630020720000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1628364840000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1627423320000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1627049160000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "releaseDate": 1626380940000,
+      "isBeta": true,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "isBeta": false,
+      "isTitled": true
+    },
+    {
+      "title": "",
+      "description": "",
+      "isBeta": false,
+      "isTitled": true
+    }
+  ]
+}
